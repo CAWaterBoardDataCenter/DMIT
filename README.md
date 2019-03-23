@@ -14,7 +14,7 @@ If you come across any other resources that the group may find helpful feel free
 * Open Data Resolution: https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf   
 * AB 1755 Open and Transparent Water Data Act: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB1755
 * AB 1755 Strategic Plan: https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/All-Programs/AB-1755/Strategic-Plan-for-AB1755.pdf
-California Department of Technology Open Data Policy: https://data.ca.gov/california-open-data-policy
+* California Department of Technology Open Data Policy: https://data.ca.gov/california-open-data-policy
 
 **Data Mangement Plan Development**
 
