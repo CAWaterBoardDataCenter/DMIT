@@ -3,7 +3,7 @@ Data Management Innovation Team (DMIT) workspace
 
 Welcome to the Data Management Innovation Team!
 
-This page and the editable [wiki page] [https://github.com/CAWaterBoardDataCenter/DMIT/wiki/Welcome-Packet] will serve as a starting point for our efforts to help improve data mangement practices at the Water Boards.
+This page and the editable [wiki page][https://github.com/CAWaterBoardDataCenter/DMIT/wiki/Welcome-Packet] will serve as a starting point for our efforts to help improve data mangement practices at the Water Boards.
 
 Listed below are some resources to get you started. 
 
