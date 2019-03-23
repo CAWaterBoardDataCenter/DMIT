@@ -23,4 +23,4 @@ If you come across any other resources that the group may find helpful feel free
 **Innovation**
 
 * How Can Government embrace Innovation Without Fear?: https://nxtgov.org/how-can-government-embrace-innovation-without-fear/
-The Digital Services Playbook: https://playbook.cio.gov 
+* The Digital Services Playbook: https://playbook.cio.gov 
